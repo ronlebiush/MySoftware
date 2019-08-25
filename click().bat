@@ -1,1 +1,1 @@
-echo click
+cho click

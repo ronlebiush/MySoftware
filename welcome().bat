@@ -1,1 +1,1 @@
-New Screen
+echo New Screen
